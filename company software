@@ -1,0 +1,15 @@
+import java.*;
+class matrix {
+      public static void main(Strings Arg[]){
+           scanner sc= new Scanner(system.in);
+           int num [][]= new Scanner int [3][3];
+           for(int i = 0;i < num.length;J++){
+              for(int j=0;j<num.length;J++) {
+                  num[i][j]= sc.nextInt(9);
+              }
+       } 
+
+       for(int j=0;i<num.length;i++){
+           for(int j=0;<num.length;j++){
+              System.out.printIn();
+        
